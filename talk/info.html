@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="bootstrap-3.3.5/css/bootstrap.min.css">
+    <script src="bootstrap-3.3.5/js/jquery.js"></script>
+    <script src="bootstrap-3.3.5/js/bootstrap.min.js"></script>
+    <style>
+        #summary {
+            text-align: left;
+        }
+
+        button {
+            border-radius: 0 !important;
+        }
+
+        span {
+            display: block;
+        }
+
+        kbd + span {
+            display: none;
+        }
+
+        kbd {
+            display: inline-block;
+            height: 20px;
+            line-height: 20px;
+            cursor: pointer;
+            margin: 10px;
+        }
+
+        dl, dt {
+            margin: 0;
+            padding: 0 !important;
+        }
+
+    </style>
+    <title>家有汇-项目答辩</title>
+    <script>
+        $(function () {
+            $("kbd").click(function () {
+                $(this).next('span').toggle();
+            });
+            $('dt').click(function () {
+                $(this).next('dd').find('dl').toggle();
+            });
+            $('#summary-btn').click(function () {
+                $('#wrap').stop().fadeIn(function () {
+                    $('#summary').stop().fadeIn()
+                })
+            });
+            $('#wrap').click(function () {
+                $('#summary').stop().fadeOut(function () {
+                    $('#wrap').stop().fadeOut()
+                });
+            })
+        })
+    </script>
+</head>
+<body>
+<div class="container text-center">
+    <h1 class="h1">家有汇<br/>
+    <small>中心思想:充分利用现有所学,逻辑上无明显错误,一次登录,所有跳转操作均指向当前用户,不会跳出登录状态</small></h1>
+    <div class="row">
+        <!--已完成页面-->
+        <dl class="list-group col-md-5">
+            <dt class="list-group-item-heading bg-primary">已实现页面</dt>
+            <dd>
+                <dl style="display: none">
+                    <dd class="list-group-item"><a href="../html/index.html" target="_blank">主页</a></dd>
+                    <dd class="list-group-item"><a href="../html/live.html" target="_blank">直播页面</a></dd>
+                    <dd class="list-group-item"><a href="../html/login.html" target="_blank">登录页面</a></dd>
+                    <dd class="list-group-item"><a href="../html/register.html" target="_blank">注册页面</a></dd>
+                    <dd class="list-group-item"><a href="../html/list.html?type=cookingUtensil" target="_blank">列表页面</a>
+                    </dd>
+                    <dd class="list-group-item"><a href="../html/detail.html?type=baby&No=4000" target="_blank">详情页面</a>
+                    </dd>
+                    <dd class="list-group-item"><a href="../html/gwc.html" target="_blank">购物车页面</a></dd>
+                </dl>
+            </dd>
+        </dl>
+        <!--已实现功能-->
+        <dl class="list-group col-md-5">
+            <dt class="list-group-item-heading bg-success">已实现功能</dt>
+            <dd>
+                <dl style="display: none">
+                    <dd class="list-group-item"><a href="#isLogin">用户登录检测</a></dd>
+                    <dd class="list-group-item"><a href="#login_js">登录(json&cookie)</a></dd>
+                    <dd class="list-group-item"><a href="#">注册(json&cookie)</a></dd>
+                    <dd class="list-group-item"><a href="#">自动登录</a></dd>
+                    <dd class="list-group-item"><a href="#carousel">上下(无缝)\左右,轮播</a></dd>
+                    <dd class="list-group-item"><a href="#page">列表动态生成\筛选\翻页</a></dd>
+                    <dd class="list-group-item"><a href="#">详情页面动态生成</a></dd>
+                    <dd class="list-group-item"><a href="#">放大镜</a></dd>
+                    <dd class="list-group-item"><a href="#gwc-js">购物车(包括小购物车)增删改查</a></dd>
+                    <dd class="list-group-item"><a href="#">.......</a></dd>
+                </dl>
+            </dd>
+        </dl>
+        <!--未实现功能-->
+        <dl class="list-group col-md-1">
+            <dt class="list-group-item-heading bg-danger">未实现功能</dt>
+            <dd>
+                <dl style="display: none">
+                    <dd class="list-group-item"><a
+                            href="http://server-wpool.syserver.ichsy.com/wpool/web/todayplay/todayplay">搜索功能</a></dd>
+                    <dd class="list-group-item"><a
+                            href="http://server-wpool.syserver.ichsy.com/wpool/web/todayplay/todayplay">直播时间</a>
+                    </dd>
+                    <dd class="list-group-item"><a
+                            href="http://server-wpool.syserver.ichsy.com/wpool/web/todayplay/todayplay">日期切换</a>
+                    </dd>
+                    <dd class="list-group-item"><a
+                            href="http://server-wpool.syserver.ichsy.com/wpool/web/list/facet?categroyCode=449720090001">排序</a>
+                    </dd>
+                    <dd class="list-group-item"><a
+                            href="http://server-wpool.syserver.ichsy.com/wpool/web/list/facet?categroyCode=449720090001">价格筛选</a>
+                    </dd>
+                    <dd class="list-group-item"><a href="">响应式</a></dd>
+                </dl>
+            </dd>
+        </dl>
+        <!--遇到的bug-->
+        <dl class="list-group col-md-1">
+            <dt class="list-group-item-heading bg-warning">bug及问题</dt>
+            <dd>
+                <dl style="display: none">
+                    <dd class="list-group-item"><a href="../bug/html/index.html">
+                        <del>滚动字幕</del>
+                    </a></dd>
+                    <dd class="list-group-item"><a href="#">延迟加载</a></dd>
+                    <dd class="list-group-item"><a href="../bug/html/detail.html?type=baby&No=4000">
+                        <del>放大镜</del>
+                    </a></dd>
+                    <dd class="list-group-item"><a
+                            href="http://server-wpool.syserver.ichsy.com/wpool/web/index/index">图标字体</a></dd>
+                </dl>
+            </dd>
+        </dl>
+    </div>
+    <div class="row">
+          <pre class="text-left">
+            <ins class="bg-success" id="login_js">用户登录及验证</ins>
+            <kbd>list.js</kbd>
+            <span>
+                <b>登录主要函数(注册按钮功能类似)</b>
+                  登录按钮.click(){
+                    ...
+                   var isExist = false;
+                   var jsonHas = false;
+                  //首先判断是否在register.json中
+                    (仅写入一个登录,没有可写入的接口,
+                    所以其他的用户注册及登录采用cookie验证)
+                   $.ajax({
+                        url: '../json/register.json',
+                        async: false,
+                        success: function (res) {
+                        $.each(res, function (index, data) {
+                            if (data["id"] == userId) {
+                            jsonHas= true;
+                        ...
+                        }
+                        })
+                    }
+                });
+                //如果不在json中
+                if(!jsonHas){
+                        ...
+                        则判断是否在cookie中,
+                        如果存在,
+                        isExist=true;
+                }
+                   if (!isExist){
+                if(arr.length){
+                          if (confirm('您尚未注册')) {
+                    location.href = "../html/register.html";
+                }
+            }else{
+                        ...
+                        //就判断是否在本地注册时保存的cookie中,并且验证密码
+                }
+                  }
+              }
+            </span>
+            <ins class="bg-success" id="isLogin">用户登录检测</ins>
+            <kbd>主要函数isLogin(fn(user))</kbd>
+            <span>
+            <b>判断浏览器当前用户是否已登录,然后拿到这个登录的user id,
+                传入接下来的每一个执行函数(即,给每个动态添加的跳转链接加上?user=id的信息),
+                即是通过<ins>location.search</ins>后面的'user='后面的信息判断是否登录及登录者的id
+            </b>
+        function isLogin(fn) {
+            //申明一个空的用户
+            var user = '';
+            var msg = (decodeURIComponent(location.search)).replace("?", '');
+            var arr = msg.split("&");
+            for (var u = 0; u < arr.length; u++) {
+                var arr2 = arr[u].split("=");
+                if (arr2[0] == "user" && arr2[1]) {
+                    user = arr2[1];
+            ...把所有指向主页或者写死的跳转网址添加当前用户信息...
+            //如果有回调即执行回调,然后把这个user传递给每一个页面的每一个跳转链接,
+                包括购物车cookie信息命名规则
+            if (fn) {
+                fn(user);
+            }
+    }
+           <kbd>也可以用cookie方式辩识当前用户</kbd>
+            <span>
+                <b>agent为存储用户名的cookie,
+                cookie存储期限为默认(即'agent'关闭时失效)</b>
+                  function agent(fn) {
+                    var agent='';
+                var arr=$.cookie('agent');
+                if(arr&&arr.length>1){
+                    agent=$.cookie('agent');
+                    }
+                }
+                //把agent传递给购物车存储用的cookie即可(省去每个链接添加location里用户标示的信息);
+                if(fn){
+                        fn(agent)
+                        /只有购物车用cookie存储时用到/
+                    }
+            </span>
+            <kbd>页面的js结构</kbd>
+            <span style="display: none">
+                <b>location.search方式</b>
+                $(function () {
+                'use strict';
+                isLogin(function (user) {
+                classifyTag(user);
+                gwcTrigger(user, function () {
+                gwcShow(user)
+                });
+                gwcShow(user);
+            });
+            </span>
+
+</span>
+            <ins class="bg-success" id="gwc-js">购物车相关功能</ins>
+            <kbd>主要函数btnGwc(obj)</kbd>
+            <span>
+            <b>拿取$.cookie(当前用户 + "gwc")并用JSON.parse解析,及可拿到当前user的购物车信息,然后遍历出需要的信息:价格,名称,数量,产品编号等信息</b>
+            参数<b>obj</b>传入了当前操作对象的类似于cookie(包括产品id,style,color等)的信息.
+
+            然后与本地的cookie进行比较,若完全匹配,则执行修改商品数量的操作,然后重新存入cookie并改变总价等信息
+
+            <b>捷径:</b>可以直接在each遍历时,对当前添加的按钮绑定事件,则省去查找过程,直接操作cookie当前对象
+            例如:
+             $.each(arr, function (index, data) {
+                ...
+                    var delSpan = $('<\span class="list-del">删除<\/span>').click(function () {
+                    arr.splice(index, 1);
+                    $.cookie(user + 'gwc', JSON.stringify(arr), {
+                        expires: 30,
+                        path: '/'
+                    });
+            ...
+            }
+            <b>优化</b>
+                加减和删除可以封装成一个函数,当传入'数量'参数'时,则改变cookie,如果没有传入数量(删除按钮),则删除该条cookie
+            <kbd>大小购物车关联函数triggerGwc(user,fn)</kbd>
+            <span>
+                 <b>triggerGwc为小购物车生成相关的函数</b>
+                参数<b>fn</b>为(大)购物车页面动态生成调用的函数
+                其他页面不传入fn,只会在<b>gwc.html</b>调用,局部刷新大购物车内容区域,为了让每一步操作都同步到两个购物车
+                $(function () {
+                        'use strict';
+                        isLogin(function (user) {
+                        classifyTag(user);
+                        gwcTrigger(user, function () {
+                                    gwcShow(user)
+                        });
+                        gwcShow(user);
+                        });
+                    });
+            </span>
+
+        </span>
+            <ins class="bg-success" id="carousel">上下轮播</ins>
+            <kbd>主要函数upCarousel(obj)</kbd>
+            <span>
+            <b>拿取当前需要轮播对象的li标签的高度,然后让ul每次移动这个高度的值</b>
+            参数<b>obj</b>传入了当前需要轮播的JQ对象(主页有一个,直播页有一个)
+                function upCarousel(obj) {
+                        var n = 0;
+                        var moveLength = obj.find('li:first').height();
+                    //复制一次li标签,实现视觉无缝
+                        obj.html(obj.html() + obj.html());
+                    //改变ul高度
+                        obj.height(moveLength * (obj.find('li').length));
+                        var timer = setInterval(function () {
+                            n += 1;
+                            up(obj);
+                        }, 2000);
+                        obj.hover(function () {
+                            clearInterval(timer);
+                        }, function () {
+                            clearInterval(timer);
+                            timer = setInterval(function () {
+                                n += 1;
+                                up(obj);
+                            }, 2000);
+                        });
+                        function up(obj) {
+                            obj.stop().animate({
+                                top: -n * moveLength
+                            }, 1000, function () {
+                                if (n >= obj.find('li').length / 2) {
+                                    n = 0;
+                                    obj.css({
+                                        top: 0
+                                    })
+                                }
+                            })
+                        }
+
+                    }
+
+
+        </span>
+            <ins class="bg-success" id="page">翻页,标签切换</ins>
+            <kbd>主要函数changePage(index, m, tag)</kbd>
+            <span>
+                <b>通过拿取当前页码和要展示的内容(加载列表页时给定,可修改)</b>
+                每次点击tag标签的时候会调用分页按钮生成函数,然后触发第一个翻页按钮的点击事件
+                for(var j = index * 每页要展示的数量; j < m; j++){
+                        ...
+                            //遍历添加obj[j]
+                }
+                参数<b>n</b>为对应的翻页按钮的index();
+                参数<b>m</b>为对应的要展示的数组的长度的末尾(不包含)的下标:m = 每页要展示的数量* (index + 1);
+                参数<b>tag</b>决定了遍历的对象是当前数组内的所有元素,还是当前数组内标签为已选定tag的元素
+                例如:每页需展示5张,
+                开始会做一个判断,如果是总长度小于每页需展示的数量,则直接展示所有的元素
+                第一页的翻页按钮的index()为0,则便利出的内容下标为0-4;
+                第二页的翻页按钮的index()为1,则便利出的内容下标为5-9;
+                ...
+                最后会做一个判断,如果是最后一页,则直接展示到总长度-1的元素(例如最后只剩4个元素,则直接展示4个,不会再遍历第5次)
+                <b></b>
+            </span>
+    </pre>
+    </div>
+    <div id="wrap"
+         style="position: fixed;bottom: 0;top: 0;left: 0;right: 0;background-color: rgba(0,0,0,0.1);display: none;"></div>
+    <div class="row">
+        <button class="btn-info btn" id="summary-btn">小结</button>
+        <div id="summary" style="display: none;position: fixed;background-color: #fff;box-shadow: 0 0 5px #000;width: 520px;height: 520px;margin: auto;top: 0;
+bottom: 0;right: 0;left: 0; border-radius: 5px;">
+           <pre>[{
+                key1:value1,
+                key2:value2,
+                key3:value3,
+                key4:value4,
+                key5:[//ARR value5],
+                key6:{
+               //OBJ value6
+               key1:value1,
+               key2:value2,
+               key3:value3,
+               key4:[//ARR value4],
+               ...
+               }
+               },{}......]
+           </pre>
+            <button class="btn-danger btn btn-block">json数据(产品json,16661行)结构及框架还有应该包含的内容的确定是尤为重要的</button>
+            <button class="btn btn-warning btn-block">如果json结构未确定好就匆忙开始动笔,写起东西来就很容易反复</button>
+            <button class="btn-info btn btn-block">首页在写的时候尽量把结构全部完成,并提炼之后页面共同的样式及结构</button>
+            <button class="btn btn-primary btn-block">相同功能及类似操作封装在一个函数,一次修改多处生效,避免一个个修改</button>
+            <button class="btn btn-default btn-block">js文件的功能尽量选择封装并合理利用回调函数</button>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

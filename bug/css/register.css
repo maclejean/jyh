@@ -1,0 +1,161 @@
+.logo > .center > a {
+    border-right: 1px solid #B9B9B9;
+}
+
+.logo {
+    height: 85px;
+    line-height: 85px;
+    background-color: #fff;
+    vertical-align: middle;
+}
+
+.logo h1 {
+    font-size: 24px;
+    text-indent: 1em;
+    font-weight: 100;
+}
+
+.logo h1 > a {
+    float: right;
+    font-size: 14px;
+    padding-top: 25px;
+    color: blue;
+
+}
+
+.register {
+    padding: 50px 0;
+    background: url("../images/background.png") repeat;
+}
+
+.wrap {
+    width: 1130px;
+    margin: 0 auto;
+    background-color: #fff;
+}
+
+.face {
+    padding: 50px 0 50px 50px;
+    float: left;
+
+}
+
+.face > div {
+    border-right: 1px solid #8c8c8c;
+    padding-right: 100px;
+}
+
+.face > h1 {
+    font-size: 24px;
+    height: 80px;
+    line-height: 80px;
+    margin-bottom: 1em;
+}
+
+.face > h1 > span {
+    border-bottom: 2px solid #FD7D00;
+    padding: 20px 80px;
+    color: #91949b;
+
+}
+
+.face > h1 > b {
+    border: 1px solid #8c8c8c;
+    height: 40px;
+    vertical-align: middle;
+    display: inline-block;
+    margin: 0 1px;
+}
+
+.face em {
+    color: #FD7D00;
+    padding: 4px;
+}
+
+.face > div > p {
+    margin-bottom: 14px;
+    font-size: 14px;
+    position: relative;
+}
+
+.face > div > p > input {
+    height: 40px;
+    line-height: 40px;
+    border: 1px solid #8c8c8c;
+    text-indent: 1em;
+    width: 310px;
+}
+.face  .msg{
+    color: red;
+    display: inline-block;
+    font-size: 12px;
+    width:100px;
+    padding-left: 12px;
+}
+#code {
+    width: 150px;
+}
+
+.face > div > p > label {
+    display: inline-block;
+    width: 85px;
+    text-align: right;
+    margin-right: 3em;
+}
+
+.face input[type='checkbox'] {
+    height: 1em;
+    width: 1em;
+}
+
+.face input[type='button'] {
+    width: 8em;
+    box-sizing: content-box;
+    color: #333;
+    background-color: #ccc;
+    font-size: 12px;
+    text-align: center;
+    height: 38px;
+    text-indent: 0;
+}
+
+.face > div > p:nth-last-of-type(1) {
+    text-align: center;
+}
+
+#regBtn {
+    width: 60%;
+    display: block;
+    background-color: #FD7D00;
+    height: 40px;
+    line-height: 40px;
+    font-size: 20px;
+    color: #fff;
+    margin: 0 auto;
+    cursor: pointer;
+}
+
+#regBtn:hover {
+    opacity: 0.9;
+}
+
+#regCode {
+    display: inline-block;
+    background-color: #CCCCCC;
+   text-align: center;
+    line-height: 40px;
+    font-size: 20px;
+    width: 50px;
+    height: 40px;
+    margin:0 4px 0 4px;
+    font-weight: bold;
+    color: #fff;
+    vertical-align: bottom;
+
+}
+#changeCode{
+    cursor: pointer;
+}
+#changeCode:hover{
+    color: #FD7D00;
+}

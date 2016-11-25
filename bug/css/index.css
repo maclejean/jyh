@@ -1,0 +1,388 @@
+
+.banner {
+    width: 100%;
+    height: 370px;
+    position: relative;
+}
+
+.carousel {
+    width: 100%;
+    height: 370px;
+    position: relative;
+}
+
+.carousel li {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    height: 370px;
+    width: 100%;
+
+}
+
+.carousel img {
+    width: 100%;
+    height: 370px;
+
+}
+
+.carousel-btn {
+    position: absolute;
+    padding: 0 5px;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    left: 50%;
+    bottom: 5%;
+    height: 20px;
+    line-height: 20px;
+}
+
+.carousel-btn > span {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    background-color: #f0f1f3;
+    border-radius: 50%;
+    margin: 0 5px;
+    cursor: pointer;
+}
+
+.active {
+    background-color: #ff7d01 !important;
+}
+
+.center {
+    position: relative;
+}
+
+.today-forsale {
+    height: 370px;
+    width: 300px;
+    position: absolute;
+    background-color: rgba(255, 255, 255, 0.4);
+    overflow: hidden;
+    top: 0;
+    right: 0;
+    left: auto;
+}
+
+.today-forsale h2 {
+    font-size: 18px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+}
+
+.today-carousel {
+    width: 300px;
+    height: 230px;
+    position: relative;
+    margin-top: 100px;
+    overflow: hidden;
+    bottom: 100px;
+}
+
+.today-carousel ul {
+    position: absolute;
+    width: 300px;
+    box-sizing: border-box;
+    padding: 10px;
+    overflow: hidden;
+    top: 0;
+}
+
+.today-forsale li {
+    height: 26px;
+    cursor: pointer;
+    line-height: 26px;
+    float: left;
+    text-align: left;
+    overflow: hidden;
+    font-size: 12px;
+}
+.today-forsale li:hover{
+    box-shadow: none;
+    text-decoration: underline;
+}
+.today-forsale li a {
+    display: block;
+    width: 280px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.today-forsale > .today-icon {
+    width: 100%;
+    margin: 1.5em auto;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+}
+
+.today-forsale div > a {
+    display: inline-block;
+}
+
+.tv-header {
+    line-height: 40px;
+    margin-bottom: 1em;
+}
+
+.tv-header > hr {
+    width: 82%;
+    display: inline-block;
+}
+
+.tv-header > a {
+    float: right;
+}
+
+.tv-header > a:hover {
+    color: #ff7d01;
+}
+
+.tv-header > span {
+    background-image: url("../images/index/index_tv_01.gif");
+    background-size: cover;
+    display: inline-block;
+    float: left;
+    width: 125px;
+    height: 40px;
+}
+
+.tv-live {
+    margin-top: 1rem;
+    width: 100%;
+}
+
+.live-ctnLft {
+    width: 472px;
+    background-color: rgba(0, 0, 0, 0.1);
+    float: left;
+    height: 230px;
+    overflow: hidden;
+}
+
+.live-ctnLft .priceWrap {
+    font-size: 12px;
+    color: #7D7D7D;
+}
+
+.live-ctnLft .discountWrap {
+    color: red;
+}
+
+.live-ctnLft > h3 {
+    line-height: 40px;
+    float: left;
+    width: 50%;
+}
+
+.live-ctnLft > h3 span {
+    display: block;
+    font-weight: normal;
+    text-indent: 20px;
+    line-height: 40px;
+    height: 40px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    font-size: 14px;
+
+}
+
+.live-ctnLft > h3 .left-time {
+    font-size: 22px;
+    background-image: url("../images/index/index_tv_time.png");
+    background-size: cover;
+    color: white;
+    width: 190px;
+    height: 40px;
+}
+
+.live-ctnLft > a {
+    float: right;
+    display: block;
+    height: 100%;
+    padding: 1%;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.live-ctnLft > a img {
+    height: 100%;
+}
+
+.live-content {
+    padding-bottom: 1rem;
+
+}
+
+.live-ctnRgt {
+    width: 728px;
+    height: 230px;
+    float: left;
+
+}
+
+.live-ctnRgt li {
+    height: 230px;
+    width: 230px;
+    background-color: #fff;
+    position: relative;
+    margin-left: 12px;
+    float: left;
+    overflow: hidden;
+}
+
+.live-ctnRgt li:hover .name {
+    text-decoration: underline;
+}
+
+.live-ctnRgt > li img {
+    height: 230px;
+    width: 100%;
+}
+
+.pic-list-row-1 {
+    padding-bottom: 12px;
+    position: relative;
+
+}
+
+.pic-list-row-1 > ul li {
+    float: left;
+    width: 230px;
+    height: 230px;
+    margin: 0 0 10px 12px;
+}
+
+.pic-list-row-1 > ul li img {
+    width: 230px;
+    height: 230px;
+}
+
+.pic-list-row-1 > ul li:nth-of-type(1) {
+    width: 472px;
+    box-sizing: content-box;
+    height: 470px;
+    float: left;
+    margin: 0;
+}
+
+.pic-list-row-1 > ul li:nth-of-type(1) img {
+    width: 100%;
+    height: 470px;
+}
+
+.pic-list-row-1 .announcement {
+    background-color: #fff;
+    width: 230px;
+    height: 230px;
+    position: absolute;
+    text-align: center;
+    right: 2px;
+    bottom: 22px;
+    margin: 0;
+}
+
+.announcement h3 {
+    line-height: 60px;
+}
+
+.announcement p {
+    line-height: 30px;
+    text-align: left;
+    text-indent: 20px;
+}
+
+.pic-list-row-2 {
+    padding-bottom: 12px;
+    margin-left: -12px;
+    position: relative;
+}
+
+.pic-list-row-2 > ul li {
+    width: 230px;
+    height: 230px;
+    float: left;
+    margin-left: 12px;
+    margin-bottom: 10px;
+}
+
+.pic-list-row-2 img {
+    width: 100%;
+    height: 100%;
+}
+
+.pic-list-row-3 {
+    padding-bottom: 12px;
+    /*margin-left: -12px;*/
+}
+
+.pic-list-row-3 > ul > li > a img {
+    width: 100%;
+    height: 100%;
+}
+
+.pic-list-row-3 > ul > li {
+    float: left;
+    margin-left: 12px;
+    margin-bottom: 10px;
+
+}
+
+.pic-list-row-3 li:nth-of-type(1) {
+    display: block;
+    width: 472px;
+    height: 470px;
+    float: left;
+    margin: 0;
+}
+
+/*直播页*/
+
+.name-price {
+    position: absolute;
+    width: 230px;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.4);
+}
+
+.name-price > .name {
+    box-sizing: border-box;
+    height: 22px;
+    width: 230px;
+    display: inline-block;
+    line-height: 22px;
+    padding: 0 0.5em;
+    text-align: right;
+    vertical-align: middle;
+    overflow: hidden;
+    font-size: 14px;
+}
+
+.name-price > .price {
+    font-size: 16px;
+    font-weight: bold;
+    text-align: right;
+    padding: 0 0.5em;
+    margin: 0;
+
+}
+
+.name-price > .time {
+    position: absolute;
+    top: -16px;
+    color: #fff;
+    font-size: 12px;
+    vertical-align: middle;
+    height: 16px;
+    line-height: 16px;
+    display: block;
+    text-align: center;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.3);
+}

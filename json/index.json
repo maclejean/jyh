@@ -1,0 +1,1648 @@
+{
+  "banner": [
+    {
+      "url": "../images/index/banner1.jpg",
+      "index": "0"
+    },
+    {
+      "url": "../images/index/banner2.jpg",
+      "index": "1"
+    },
+    {
+      "url": "../images/index/banner3.jpg",
+      "index": "2"
+    },
+    {
+      "url": "../images/index/banner4.jpg",
+      "index": "3"
+    }
+  ],
+  "classify": [
+    {
+      "type": "cookingUtensil",
+      "text": "厨房用品"
+    },
+    {
+      "type": "homeKit",
+      "text": "生活家居"
+    },
+    {
+      "type": "kitchenAppliance",
+      "text": "厨房电器"
+    },
+    {
+      "type": "homeTextiles",
+      "text": "家纺用品"
+    },
+    {
+      "type": "makeup",
+      "text": "美容护肤"
+    },
+    {
+      "type": "clothes",
+      "text": "服装服饰"
+    },
+    {
+      "type": "foods",
+      "text": "食品饮料"
+    },
+    {
+      "type": "casesBags",
+      "text": "箱包配饰"
+    },
+    {
+      "type": "sports",
+      "text": "运动健康"
+    },
+    {
+      "type": "lifeElectric",
+      "text": "生活电器"
+    },
+    {
+      "type": "3C",
+      "text": "3C数码"
+    },
+    {
+      "type": "pat",
+      "text": "宠物用品"
+    },
+    {
+      "type": "baby",
+      "text": "母婴用品"
+    }
+  ],
+  "row1": [
+    {
+      "src":"../images/index/forsalelimited.jpg",
+      "type":"forsalelimited",
+      "position":"first",
+      "title":"限时抢购"
+    },
+    {
+      "src":"../images/index/cheapForsale.jpg",
+      "type":"cheapForsale",
+      "title":"低价疯抢"
+    },
+    {
+      "src":"../images/index/underwear.jpg",
+      "type":"underwear",
+      "title":"品牌内衣"
+    },
+    {
+      "src":"../images/index/clothes.jpg",
+      "type":"clothes" ,
+      "title":"服装服饰"
+    },
+    {
+      "src":"../images/index/snacks.jpg",
+      "type":"foods" ,
+      "title":"零食爽购"
+
+    },
+    {
+      "src":"../images/index/wines.jpg",
+      "type":"foods" ,
+      "title":"金秋风暴,酒月狂欢"
+    }
+  ],
+  "row2":[
+    {
+      "src":"../images/index/cookingUtensil.jpg",
+      "type":"cookingUtensil",
+      "title":"品质厨房"
+    },
+    {
+      "src":"../images/index/homeKit.jpg",
+      "type":"homeKit",
+      "title":"生活家居"
+    },
+    {
+      "src":"../images/index/kitchenAppliance.jpg",
+      "type":"kitchenAppliance",
+      "title":"厨房电器"
+    },
+    {
+      "src":"../images/index/homeTextiles.jpg",
+      "type":"homeTextiles",
+      "title":"家纺用品"
+    },
+    {
+      "src":"../images/index/makeup.jpg",
+      "type":"makeup",
+      "title":"美护个妆"
+    },
+    {
+      "src":"../images/index/clothes.jpg",
+      "type":"clothes",
+      "title":"服装服饰"
+    },
+    {
+      "src":"../images/index/foods.jpg",
+      "type":"foods",
+      "title":"食品饮料"
+    },
+    {
+      "src":"../images/index/casesBags.jpg",
+      "type":"casesBags",
+      "title":"箱包配饰"
+    },
+    {
+      "src":"../images/index/sports.jpg",
+      "type":"sports",
+      "title":"运动健康"
+    },
+    {
+      "src":"../images/index/lifeElectric.jpg",
+      "type":"lifeElectric",
+      "title":"生活电器"
+    }
+  ],
+  "row3":[
+    {
+      "src":"../images/index/brandsForsale.jpg",
+      "position":"first",
+      "title":"品牌特卖"
+    },
+    {
+      "src":"../images/index/cheapForsale.jpg",
+      "title":"低价疯抢",
+      "type":"cheapForsale"
+    },
+    {
+      "src":"../images/index/underwear.jpg",
+      "type":"underwear",
+      "title":"品牌内衣"
+    },
+    {
+      "src":"../images/index/clothes.jpg",
+      "type":"clothes",
+      "title":"服装服饰"
+    },
+    {
+      "src":"../images/index/snacks.jpg",
+      "type":"foods",
+      "title":"零食爽购"
+    },
+    {
+      "src":"../images/index/wines.jpg",
+      "type":"foods",
+      "title":"酒月狂欢"
+    },
+    {
+      "src":"../images/index/massage.jpg",
+      "type":"massage",
+      "title":"massage"
+    }
+  ],
+  "notice": [
+    "1,要买要带抓紧赶快",
+    "2,全场满150元包邮",
+    "3,包邮发顺丰,即日达"
+  ],
+  "today": [
+    {
+      "productNum": 9142634,
+      "type": "homeKit",
+      "time":"12:00-12:30",
+      "title": "韩国进口SOONEYHOUSE收纳箱（紫色、粉色各3个）",
+      "img": [
+        "../images/homeKit/9142634/9142634bg0.jpg",
+        "../images/homeKit/9142634/9142634bg1.jpg"
+      ],
+      "discount": "299.00",
+      "subhead": "韩国进口、收纳好帮手，节省空间",
+      "price": "450.00",
+      "credits": 0.9,
+      "sales": 0,
+      "xqImg": [
+        "../images/homeKit/9142634/0.jpg",
+        "../images/homeKit/9142634/1.jpg",
+        "../images/homeKit/9142634/2.jpg",
+        "../images/homeKit/9142634/3.jpg",
+        "../images/homeKit/9142634/4.jpg",
+        "../images/homeKit/9142634/5.jpg",
+        "../images/homeKit/9142634/6.jpg",
+        "../images/homeKit/9142634/7.jpg",
+        "../images/homeKit/9142634/8.jpg",
+        "../images/homeKit/9142634/9.jpg",
+        "../images/homeKit/9142634/10.jpg",
+        "../images/homeKit/9142634/11.jpg",
+        "../images/homeKit/9142634/12.jpg",
+        "../images/homeKit/9142634/13.jpg",
+        "../images/homeKit/9142634/14.jpg"
+      ],
+      "specification": [
+        [
+          "商品信息",
+          "韩国进口sooneyhouse收纳六件"
+        ],
+        [
+          "配件",
+          "sooneyhouse收纳箱*6、合格证*1"
+        ],
+        [
+          "规格",
+          "长宽高约50*40*33cm"
+        ],
+        [
+          "重量",
+          "单只约1.2kg"
+        ],
+        [
+          "材质",
+          "面料聚酯纤维；镀铬不锈钢骨架"
+        ],
+        [
+          "颜色",
+          "紫色、粉色各3个"
+        ],
+        [
+          "容量",
+          "66L"
+        ],
+        [
+          "品牌",
+          "sooneyhouse"
+        ]
+      ],
+      "afterSale": [
+        "商品一经售出，若无质量问题，商品完好，接受7天无理由退换货，其中消费者查验拆封影响商品完好，但未经使用（试用装除外）不得作为拒绝退换货理由。",
+        "商品质量问题，自实际收到商品之日起7天内可退换货，15天内可换货。",
+        "商品若无试用装，使用后出现过敏症状，可办理退货。"
+      ]
+    },
+    {
+      "productNum": 9145372,
+      "type": "homeKit",
+      "time":"11:30-12:00",
+      "title": "帕格尼1.5米时尚皮艺软床+床垫+床头柜",
+      "img": [
+        "../images/homeKit/9145372/9145372bg0.jpg",
+        "../images/homeKit/9145372/9145372bg1.jpg"
+      ],
+      "discount": "5799.00",
+      "subhead": "优选材精心设计、舒适结实",
+      "price": "8999.00",
+      "color": [
+        "米白色",
+        "棕栗色"
+      ],
+      "credits": 17.4,
+      "sales": 32,
+      "xqImg": [
+        "../images/homeKit/9145372/0.jpg",
+        "../images/homeKit/9145372/1.jpg",
+        "../images/homeKit/9145372/2.jpg",
+        "../images/homeKit/9145372/3.jpg",
+        "../images/homeKit/9145372/4.jpg",
+        "../images/homeKit/9145372/5.jpg",
+        "../images/homeKit/9145372/6.jpg",
+        "../images/homeKit/9145372/7.jpg",
+        "../images/homeKit/9145372/8.jpg",
+        "../images/homeKit/9145372/9.jpg"
+      ],
+      "specification": [
+        [
+          "主品",
+          "帕格尼时尚皮艺软床*1\n主、赠品均为提货券，供应商配送商品"
+        ],
+        [
+          "规格",
+          "床最大占用空间为：长*宽：237cm*167cm=3.9\n床垫规格1.5*2.0m，床垫厚度约：22cm\n皮靠背厚约：27cm ，高约99cm"
+        ],
+        [
+          "颜色",
+          "银白色（即米白色）\n红棕色（即栗棕色）\n二选一"
+        ],
+        [
+          "床架底部收纳空间约",
+          "330L"
+        ],
+        [
+          "赠品",
+          "床垫*1，床头柜*2"
+        ],
+        [
+          "床垫材质",
+          "白色针织面料，高弹海绵,乳胶，锰钢弹簧"
+        ],
+        [
+          "床头柜材质",
+          "主体是中纤人造板，外饰仿皮"
+        ],
+        [
+          "床头柜占用空间",
+          "47cm*48cm=0.22㎡，高约：48cm"
+        ],
+        [
+          "品牌",
+          "帕格尼"
+        ]
+      ],
+      "afterSale": [
+        "商品一经售出，若无质量问题，商品完好，接受7天无理由退换货，其中消费者查验拆封影响商品完好，但未经使用（试用装除外）不得作为拒绝退换货理由。",
+        "商品质量问题，自实际收到商品之日起7天内可退换货，15天内可换货。",
+        "商品若无试用装，使用后出现过敏症状，可办理退货。"
+      ]
+    },
+    {
+      "productNum": 9147897,
+      "type": "homeKit",
+      "time":"10:30-11:00",
+      "title": "迪士尼大容量百纳箱8件特供组",
+      "img": [
+        "../images/homeKit/9147897/9147897bg0.jpg",
+        "../images/homeKit/9147897/9147897bg1.jpg",
+        "../images/homeKit/9147897/9147897bg2.jpg",
+        "../images/homeKit/9147897/9147897bg3.jpg"
+      ],
+      "discount": "329.00",
+      "subhead": "优选材精心设计、舒适结实",
+      "price": "329.00",
+      "color": [
+        "红色",
+        "粉色"
+      ],
+      "present":"迪士尼赠品收纳箱",
+      "credits": 1.2,
+      "sales": 32,
+      "xqImg": [
+        "../images/homeKit/9147897/0.jpg",
+        "../images/homeKit/9147897/1.jpg",
+        "../images/homeKit/9147897/2.jpg",
+        "../images/homeKit/9147897/3.jpg",
+        "../images/homeKit/9147897/4.jpg",
+        "../images/homeKit/9147897/5.jpg",
+        "../images/homeKit/9147897/6.jpg"
+      ],
+      "specification": [
+        [
+          "主品",
+          "迪士尼收纳箱66L*8、使用说明书，合格证"
+        ],
+        [
+          "材质",
+          "主品为100%聚酯纤维、镀铬不锈钢"
+        ],
+        [
+          "占用空间",
+          "66L约50*40*33cm"
+        ],
+        [
+          "颜色",
+          "粉色、红色（二选一）"
+        ],
+        [
+          "品牌",
+          "迪士尼"
+        ]
+      ],
+      "afterSale": [
+        "商品一经售出，若无质量问题，商品完好，接受7天无理由退换货，其中消费者查验拆封影响商品完好，但未经使用（试用装除外）不得作为拒绝退换货理由。",
+        "商品质量问题，自实际收到商品之日起7天内可退换货，15天内可换货。",
+        "商品若无试用装，使用后出现过敏症状，可办理退货。"
+      ]
+    },
+    {
+      "productNum": 9149423,
+      "type": "homeKit",
+      "time":"10:00-10:30",
+      "title": "贝尔莱德蒸汽挂烫机 赠家毅微型缝纫机1个",
+      "img": [
+        "../images/homeKit/9149423/9149423bg0.jpg",
+        "../images/homeKit/9149423/9149423bg1.jpg"
+      ],
+      "discount": "299.00",
+      "subhead": "买挂烫机赠缝纫机，制衣美衣一步到位",
+      "price": "698.00",
+      "present":"宝家洁异彩全能清扫拖*1套",
+      "credits": 0.9,
+      "sales": 0,
+      "xqImg": [
+        "../images/homeKit/9149423/0.jpg",
+        "../images/homeKit/9149423/1.jpg",
+        "../images/homeKit/9149423/2.jpg",
+        "../images/homeKit/9149423/3.jpg",
+        "../images/homeKit/9149423/4.jpg",
+        "../images/homeKit/9149423/5.jpg",
+        "../images/homeKit/9149423/6.jpg",
+        "../images/homeKit/9149423/7.jpg",
+        "../images/homeKit/9149423/8.jpg",
+        "../images/homeKit/9149423/9.jpg",
+        "../images/homeKit/9149423/10.jpg"
+      ],
+      "specification": [
+        [
+          "主品",
+          "主机（含水箱）、四段伸缩管、蒸汽软管、衣架（含万向轴）、毛刷、裤缝夹、熨衣小帮手及使用说明、说明书、合格证各一件"
+        ],
+        [
+          "主品型号",
+          "GS06-BJ/H"
+        ],
+        [
+          "功率/电压/频率",
+          "1500W/220V/50Hz"
+        ],
+        [
+          "规格",
+          "主机长宽约30*25cm；；铝杆高约130cm"
+        ],
+        [
+          "重量",
+          "主机约2.3kg"
+        ],
+        [
+          "颜色",
+          "主机粉色；熨衣小帮手和伸缩衣架颜色随机"
+        ],
+        [
+          "材质",
+          "PVC水箱；铝制立杆"],
+        [
+          "水箱容量",
+          "1.4L"
+        ],
+        [
+          "品牌",
+          "贝尔莱德"
+        ],
+        [
+          "产地",
+          "广东 顺德"
+        ],
+        [
+          "赠品",
+          "家毅微型缝纫机"
+        ],
+        [
+          "赠品配件",
+          "主机（含梭芯、机针各一支）、脚踏开关、充电器、梭芯4支、机针、说明书各一件"
+        ],
+        [
+          "规格",
+          "长宽约20*10cm 高约20cm"
+        ],
+        [
+          "重量",
+          "约650g"
+        ],
+        [
+          "颜色",
+          "随机"
+        ],
+        [
+          "电池容量",
+          "4支5号AA电池"
+        ]
+      ],
+      "afterSale": [
+        "商品一经售出，若无质量问题，商品完好，接受7天无理由退换货，其中消费者查验拆封影响商品完好，但未经使用（试用装除外）不得作为拒绝退换货理由。",
+        "商品质量问题，自实际收到商品之日起7天内可退换货，15天内可换货。",
+        "商品若无试用装，使用后出现过敏症状，可办理退货。"
+      ]
+    },
+    {
+      "productNum": 9148491,
+      "type": "homeKit",
+      "time":"12:30-13:00",
+      "title": "宝家洁免手洗自滤拖把*2 赠宝家洁异彩全能清扫拖*1套",
+      "img": [
+        "../images/homeKit/9148491/9148491bg0.jpg",
+        "../images/homeKit/9148491/9148491bg1.jpg",
+        "../images/homeKit/9148491/9148491bg2.jpg"
+      ],
+      "discount": "269.00",
+      "subhead": "自滤手握把省力清洗滤干、省空间自然站立晒干",
+      "price": "430.00",
+      "present":"宝家洁异彩全能清扫拖*1套",
+      "credits": 0.81,
+      "sales": 0,
+      "xqImg": [
+        "../images/homeKit/9148491/0.jpg",
+        "../images/homeKit/9148491/1.jpg",
+        "../images/homeKit/9148491/2.jpg",
+        "../images/homeKit/9148491/3.jpg",
+        "../images/homeKit/9148491/4.jpg",
+        "../images/homeKit/9148491/5.jpg",
+        "../images/homeKit/9148491/6.jpg",
+        "../images/homeKit/9148491/7.jpg",
+        "../images/homeKit/9148491/8.jpg",
+        "../images/homeKit/9148491/9.jpg",
+        "../images/homeKit/9148491/10.jpg",
+        "../images/homeKit/9148491/11.jpg",
+        "../images/homeKit/9148491/11.jpg"
+      ],
+      "specification": [
+        [
+          "内联赠品",
+          "宝家洁异彩全能清扫拖*1套"
+        ],
+        [
+          "主品",
+          "宝家洁免手洗自滤拖把*2（包含拖把杆*2、拖把头*2、拖把布*8、说明书含保修卡）"
+        ],
+        [
+          "赠品",
+          "宝家洁异彩全能清扫拖*1套（包含拖把杆*1根、底板*1个、拖把布-绿色*2块、拖把布-黑色*2块、除尘布-黑色*1块）"
+        ],
+        [
+          "拖把型号",
+          "FC-44/J"
+        ],
+        [
+          "规格",
+          "面板32×10cm、总长（收缩站立）147cm、展开高约133cm"
+        ],
+        [
+          "赠品规格",
+          "总长138cm、拖板13×28cm、拖布30×13cm"
+        ],
+        [
+          "材质",
+          "高强度塑料、合金管、超微碳纤维拖布、魔术毛刷布"],
+        [
+          "品牌",
+          "宝家洁"
+        ],
+        [
+          "拖把材质",
+          "高强度塑料、合金管、超细纤维拖把布"
+        ]
+      ],
+      "afterSale": [
+        "商品一经售出，若无质量问题，商品完好，接受7天无理由退换货，其中消费者查验拆封影响商品完好，但未经使用（试用装除外）不得作为拒绝退换货理由。",
+        "商品质量问题，自实际收到商品之日起7天内可退换货，15天内可换货。",
+        "商品若无试用装，使用后出现过敏症状，可办理退货。"
+      ]
+    },
+    {
+      "productNum": 9132350,
+      "type": "cookingUtensil",
+      "time":"13:30-14:00",
+      "title": "爱仕达聚味锈不了锅具三件套送不锈钢铲具四件套",
+      "img": [
+        "../images/cookingUtensil/9132350/9132350bg0.jpg"
+      ],
+      "discount": "399.00",
+      "subhead": "铁质更纯,坚固耐用",
+      "price": "598.00",
+      "present": "8周年富安娜定制午休毯",
+      "credits": 1.2,
+      "sales": 0,
+      "xqImg": [
+        "../images/cookingUtensil/9132350/0.jpg",
+        "../images/cookingUtensil/9132350/1.jpg",
+        "../images/cookingUtensil/9132350/2.jpg",
+        "../images/cookingUtensil/9132350/3.jpg",
+        "../images/cookingUtensil/9132350/4.jpg",
+        "../images/cookingUtensil/9132350/5.jpg",
+        "../images/cookingUtensil/9132350/6.jpg",
+        "../images/cookingUtensil/9132350/7.jpg",
+        "../images/cookingUtensil/9132350/8.jpg",
+        "../images/cookingUtensil/9132350/9.jpg",
+        "../images/cookingUtensil/9132350/10.jpg",
+        "../images/cookingUtensil/9132350/11.jpg",
+        "../images/cookingUtensil/9132350/12.jpg",
+        "../images/cookingUtensil/9132350/13.jpg",
+        "../images/cookingUtensil/9132350/14.jpg",
+        "../images/cookingUtensil/9132350/15.jpg"
+      ],
+      "specification": [
+        [
+          "主品配置",
+          "炒锅（含锅盖）、煎锅、蒸锅（含蒸格、蒸箅、锅盖）、说明书各1"
+        ],
+        [
+          "材质",
+          "炒锅：30cm、深约8cm、重约1.5kg、无涂层防锈铸铁、电磁炉及明火可用 煎锅：24cm、深约4cm、重约0.46kg、铝合金含涂层（不适合电磁炉） 蒸锅：26cm、不锈钢、重约2.3kg（带盖）、电磁炉及明火可用"
+        ],
+        [
+          "赠品配置",
+          "不锈钢铲具四件套"
+        ],
+        [
+          "品牌",
+          "爱仕达"
+        ]
+      ],
+      "afterSale": [
+        "商品一经售出，若无质量问题，商品完好，接受7天无理由退换货，其中消费者查验拆封影响商品完好，但未经使用（试用装除外）不得作为拒绝退换货理由。",
+        "商品质量问题，自实际收到商品之日起7天内可退换货，15天内可换货。",
+        "商品若无试用装，使用后出现过敏症状，可办理退货。"
+      ]
+    },
+    {
+      "productNum": 9127309,
+      "type": "cookingUtensil",
+      "time":"14:00-14:30",
+      "title": "爱仕达三层不锈钢锅具组",
+      "img": [
+        "../images/cookingUtensil/9127309/9127309bg0.jpg",
+        "../images/cookingUtensil/9127309/9127309bg1.jpg"
+      ],
+      "discount": "299.00",
+      "subhead": "一体成型,三层聚热",
+      "price": "448.50",
+      "present": "爱仕达厨房工具六件套",
+      "credits": 0.9,
+      "sales": 0,
+      "xqImg": [
+        "../images/cookingUtensil/9127309/0.jpg",
+        "../images/cookingUtensil/9127309/1.jpg",
+        "../images/cookingUtensil/9127309/2.jpg",
+        "../images/cookingUtensil/9127309/3.jpg",
+        "../images/cookingUtensil/9127309/4.jpg",
+        "../images/cookingUtensil/9127309/5.jpg",
+        "../images/cookingUtensil/9127309/6.jpg",
+        "../images/cookingUtensil/9127309/7.jpg",
+        "../images/cookingUtensil/9127309/8.jpg",
+        "../images/cookingUtensil/9127309/9.jpg",
+        "../images/cookingUtensil/9127309/10.jpg",
+        "../images/cookingUtensil/9127309/11.jpg"
+      ],
+      "specification": [
+        [
+          "主品配置",
+          "爱仕达三层复合钢两件套"
+        ],
+        [
+          "规格",
+          "炒锅规格：直径30厘米，深度8厘米，重量1.5kg 煎锅规格：直径26厘米，深度5厘米，重量1.0kg"
+        ],
+        [
+          "赠品配置",
+          "爱仕达不锈钢铲具四件套"
+        ],
+        [
+          "品牌",
+          "爱仕达（国内注册商标，孙俪代言）"
+        ]
+      ],
+      "afterSale": [
+        "商品一经售出，若无质量问题，商品完好，接受7天无理由退换货，其中消费者查验拆封影响商品完好，但未经使用（试用装除外）不得作为拒绝退换货理由。",
+        "商品质量问题，自实际收到商品之日起7天内可退换货，15天内可换货。",
+        "商品若无试用装，使用后出现过敏症状，可办理退货。"
+      ]
+    },
+    {
+      "productNum": 9133024,
+      "type": "cookingUtensil",
+      "time":"14:30-15:00",
+      "title": "爱乐仕至尊不锈钢30cm炒锅+24cm煎锅+汤锅 再送刀具4件、锅铲3件",
+      "img": [
+        "../images/cookingUtensil/9133024/9133024bg0.jpg",
+        "../images/cookingUtensil/9133024/9133024bg1.jpg",
+        "../images/cookingUtensil/9133024/9133024bg2.jpg",
+        "../images/cookingUtensil/9133024/9133024bg3.jpg",
+        "../images/cookingUtensil/9133024/9133024bg4.jpg",
+        "../images/cookingUtensil/9133024/9133024bg5.jpg"
+      ],
+      "discount": "699.00",
+      "subhead": "健康无涂层 少油烟",
+      "price": "1048.00",
+      "present": "爱乐仕不锈钢保温杯2支",
+      "credits": 2.1,
+      "sales": 0,
+      "xqImg": [
+        "../images/cookingUtensil/9133024/0.jpg",
+        "../images/cookingUtensil/9133024/1.jpg",
+        "../images/cookingUtensil/9133024/2.jpg",
+        "../images/cookingUtensil/9133024/3.jpg",
+        "../images/cookingUtensil/9133024/4.jpg",
+        "../images/cookingUtensil/9133024/5.jpg",
+        "../images/cookingUtensil/9133024/6.jpg",
+        "../images/cookingUtensil/9133024/7.jpg",
+        "../images/cookingUtensil/9133024/8.jpg",
+        "../images/cookingUtensil/9133024/9.jpg",
+        "../images/cookingUtensil/9133024/10.jpg",
+        "../images/cookingUtensil/9133024/11.jpg",
+        "../images/cookingUtensil/9133024/12.jpg",
+        "../images/cookingUtensil/9133024/13.jpg",
+        "../images/cookingUtensil/9133024/14.jpg",
+        "../images/cookingUtensil/9133024/15.jpg"
+      ],
+      "specification": [
+        [
+          "主品配置",
+          "30cm炒锅及锅盖、蒸格"
+        ],
+        [
+          "尺寸",
+          "炒锅深约8cm；煎锅深约6cm；汤锅深约12cm"
+        ],
+        [
+          "赠品配置",
+          "24cm煎锅及锅盖、24cm汤锅及锅盖、不锈钢刀具（含菜刀，砍刀，厨师刀，刀架）、锅铲、汤勺、漏勺、说明书（含保修卡）、合格证各一件"
+        ],
+        [
+          "品牌",
+          "爱乐仕"
+        ],
+        [
+          "材质",
+          "不锈钢锅具"
+        ],
+        [
+          "颜色",
+          "不锈钢色锅具；黑色刀座"
+        ],
+        [
+          "重量",
+          "炒锅约1.3kg；煎锅约0.9kg；汤锅约1.4kg炒锅约1.3kg；煎锅约0.9kg；汤锅约1.4kg"
+        ],
+        [
+          "适用炉灶",
+          "明火、电磁炉、光波炉等（不挑炉具）"
+        ]
+      ],
+      "afterSale": [
+        "商品一经售出，若无质量问题，商品完好，接受7天无理由退换货，其中消费者查验拆封影响商品完好，但未经使用（试用装除外）不得作为拒绝退换货理由。",
+        "商品质量问题，自实际收到商品之日起7天内可退换货，15天内可换货。",
+        "商品若无试用装，使用后出现过敏症状，可办理退货。"
+      ]
+    },
+    {
+      "productNum": 9134954,
+      "type": "cookingUtensil",
+      "time":"15:30-16:00",
+      "title": "爱乐仕经典全钢锅具三件 赠煎锅+汤锅+汤锅锅盖+刀具四件组+锅铲",
+      "img": [
+        "../images/cookingUtensil/9134954/9134954bg0.jpg",
+        "../images/cookingUtensil/9134954/9134954bg1.jpg",
+        "../images/cookingUtensil/9134954/9134954bg2.jpg",
+        "../images/cookingUtensil/9134954/9134954bg3.jpg"
+      ],
+      "discount": "399.00",
+      "subhead": "健康无烟,全钢不沾",
+      "price": "599.00",
+      "present": "爱乐仕不锈钢保温杯2支",
+      "credits": 1.2,
+      "sales": 0,
+      "xqImg": [
+        "../images/cookingUtensil/9134954/0.jpg",
+        "../images/cookingUtensil/9134954/1.jpg",
+        "../images/cookingUtensil/9134954/2.jpg",
+        "../images/cookingUtensil/9134954/3.jpg",
+        "../images/cookingUtensil/9134954/4.jpg",
+        "../images/cookingUtensil/9134954/5.jpg",
+        "../images/cookingUtensil/9134954/6.jpg",
+        "../images/cookingUtensil/9134954/7.jpg",
+        "../images/cookingUtensil/9134954/8.jpg",
+        "../images/cookingUtensil/9134954/9.jpg",
+        "../images/cookingUtensil/9134954/10.jpg",
+        "../images/cookingUtensil/9134954/11.jpg",
+        "../images/cookingUtensil/9134954/12.jpg",
+        "../images/cookingUtensil/9134954/13.jpg",
+        "../images/cookingUtensil/9134954/14.jpg",
+        "../images/cookingUtensil/9134954/15.jpg",
+        "../images/cookingUtensil/9134954/16.jpg",
+        "../images/cookingUtensil/9134954/17.jpg",
+        "../images/cookingUtensil/9134954/18.jpg"
+      ],
+      "specification": [
+        [
+          "主品配置",
+          "炒锅、锅盖、把手、说明书（含保修卡）"
+        ],
+        [
+          "规格",
+          "炒锅深约8cm；煎锅深约6cm；汤锅深约12cm"
+        ],
+        [
+          "赠品配置",
+          "煎锅、汤锅、汤锅锅盖、刀具四件组（砍刀，菜刀，水果刀，刀座）、锅铲"
+        ],
+        [
+          "材质",
+          "不锈钢"
+        ],
+        [
+          "颜色",
+          "锅体不锈钢色；透明锅盖；黑色刀座"
+        ]
+      ],
+      "afterSale": [
+        "商品一经售出，若无质量问题，商品完好，接受7天无理由退换货，其中消费者查验拆封影响商品完好，但未经使用（试用装除外）不得作为拒绝退换货理由。",
+        "商品质量问题，自实际收到商品之日起7天内可退换货，15天内可换货。",
+        "商品若无试用装，使用后出现过敏症状，可办理退货。"
+      ]
+    },
+    {
+      "productNum": 9137954,
+      "type": "cookingUtensil",
+      "time":"16:00-16:30",
+      "title": "韩国PN枫年5.5L压力锅+3.5L不锈钢汤锅+刀具套组",
+      "img": [
+        "../images/cookingUtensil/9137954/9137954bg0.jpg",
+        "../images/cook ingUtensil/9137954/9137954bg1.jpg",
+        "../images/cookingUtensil/9137954/9137954bg2.jpg",
+        "../images/cookingUtensil/9137954/9137954bg3.jpg",
+        "../images/cookingUtensil/9137954/9137954bg4.jpg"
+      ],
+      "discount": "399.00",
+      "subhead": "韩国压力锅第一品牌，超值套组",
+      "price": "599.00",
+      "credits": 5.04,
+      "sales": 0,
+      "xqImg": [
+        "../images/cookingUtensil/9137954/0.jpg",
+        "../images/cookingUtensil/9137954/1.jpg",
+        "../images/cookingUtensil/9137954/2.jpg",
+        "../images/cookingUtensil/9137954/3.jpg",
+        "../images/cookingUtensil/9137954/4.jpg",
+        "../images/cookingUtensil/9137954/5.jpg",
+        "../images/cookingUtensil/9137954/6.jpg",
+        "../images/cookingUtensil/9137954/7.jpg",
+        "../images/cookingUtensil/9137954/8.jpg",
+        "../images/cookingUtensil/9137954/9.jpg",
+        "../images/cookingUtensil/9137954/10.jpg",
+        "../images/cookingUtensil/9137954/11.jpg",
+        "../images/cookingUtensil/9137954/12.jpg",
+        "../images/cookingUtensil/9137954/13.jpg",
+        "../images/cookingUtensil/9137954/14.jpg",
+        "../images/cookingUtensil/9137954/15.jpg",
+        "../images/cookingUtensil/9137954/16.jpg",
+        "../images/cookingUtensil/9137954/17.jpg",
+        "../images/cookingUtensil/9137954/18.jpg",
+        "../images/cookingUtensil/9137954/19.jpg",
+        "../images/cookingUtensil/9137954/20.jpg",
+        "../images/cookingUtensil/9137954/21.jpg",
+        "../images/cookingUtensil/9137954/22.jpg",
+        "../images/cookingUtensil/9137954/23.jpg",
+        "../images/cookingUtensil/9137954/24.jpg",
+        "../images/cookingUtensil/9137954/25.jpg",
+        "../images/cookingUtensil/9137954/26.jpg",
+        "../images/cookingUtensil/9137954/27.jpg",
+        "../images/cookingUtensil/9137954/28.jpg",
+        "../images/cookingUtensil/9137954/29.jpg"
+      ],
+      "specification": [
+        [
+          "产地",
+          "韩国"
+        ],
+        [
+          "品牌",
+          "PN枫年"
+        ],
+        [
+          "材质",
+          "不锈钢锅身"
+        ],
+        [
+          "重量",
+          "5.5L压力锅约1.7kg;3.5L不锈钢汤锅约1.46kg"
+        ],
+        [
+          "规格",
+          "压力锅口径约22cm;5.5L压力锅深约15cm;3.5L不锈钢汤锅深约11cm"
+        ],
+        [
+          "主品配置",
+          "5.5L压力锅、3.5L不锈钢汤锅、不锈钢蒸屉、可立式防溢锅盖、压力锅盖、说明书、食谱、保修卡、安全针"
+        ],
+        [
+          "赠品配置",
+          "切菜刀、多用刀、水果刀、剪刀、刀架座"
+        ],
+        [
+          "其他说明",
+          "压力锅建议使用年限:10年"
+        ],
+        [
+          "适用炉灶",
+          "明火 电磁炉 电陶炉等（不挑炉灶)"
+        ]
+      ],
+      "afterSale": [
+        "商品一经售出，若无质量问题，商品完好，接受7天无理由退换货，其中消费者查验拆封影响商品完好，但未经使用（试用装除外）不得作为拒绝退换货理由。",
+        "商品质量问题，自实际收到商品之日起7天内可退换货，15天内可换货。",
+        "商品若无试用装，使用后出现过敏症状，可办理退货。"
+      ]
+    }
+  ],
+  "live":[
+    {
+      "productNum": 9142634,
+      "type": "homeKit",
+      "time":"12:00-12:30",
+      "title": "韩国进口SOONEYHOUSE收纳箱（紫色、粉色各3个）",
+      "img": [
+        "../images/homeKit/9142634/9142634bg0.jpg",
+        "../images/homeKit/9142634/9142634bg1.jpg"
+      ],
+      "discount": "299.00",
+      "subhead": "韩国进口、收纳好帮手，节省空间",
+      "price": "450.00",
+      "credits": 0.9,
+      "sales": 0,
+      "xqImg": [
+        "../images/homeKit/9142634/0.jpg",
+        "../images/homeKit/9142634/1.jpg",
+        "../images/homeKit/9142634/2.jpg",
+        "../images/homeKit/9142634/3.jpg",
+        "../images/homeKit/9142634/4.jpg",
+        "../images/homeKit/9142634/5.jpg",
+        "../images/homeKit/9142634/6.jpg",
+        "../images/homeKit/9142634/7.jpg",
+        "../images/homeKit/9142634/8.jpg",
+        "../images/homeKit/9142634/9.jpg",
+        "../images/homeKit/9142634/10.jpg",
+        "../images/homeKit/9142634/11.jpg",
+        "../images/homeKit/9142634/12.jpg",
+        "../images/homeKit/9142634/13.jpg",
+        "../images/homeKit/9142634/14.jpg"
+      ],
+      "specification": [
+        [
+          "商品信息",
+          "韩国进口sooneyhouse收纳六件"
+        ],
+        [
+          "配件",
+          "sooneyhouse收纳箱*6、合格证*1"
+        ],
+        [
+          "规格",
+          "长宽高约50*40*33cm"
+        ],
+        [
+          "重量",
+          "单只约1.2kg"
+        ],
+        [
+          "材质",
+          "面料聚酯纤维；镀铬不锈钢骨架"
+        ],
+        [
+          "颜色",
+          "紫色、粉色各3个"
+        ],
+        [
+          "容量",
+          "66L"
+        ],
+        [
+          "品牌",
+          "sooneyhouse"
+        ]
+      ],
+      "afterSale": [
+        "商品一经售出，若无质量问题，商品完好，接受7天无理由退换货，其中消费者查验拆封影响商品完好，但未经使用（试用装除外）不得作为拒绝退换货理由。",
+        "商品质量问题，自实际收到商品之日起7天内可退换货，15天内可换货。",
+        "商品若无试用装，使用后出现过敏症状，可办理退货。"
+      ]
+    },
+    {
+      "productNum": 9145372,
+      "type": "homeKit",
+      "time":"11:30-12:00",
+      "title": "帕格尼1.5米时尚皮艺软床+床垫+床头柜",
+      "img": [
+        "../images/homeKit/9145372/9145372bg0.jpg",
+        "../images/homeKit/9145372/9145372bg1.jpg"
+      ],
+      "discount": "5799.00",
+      "subhead": "优选材精心设计、舒适结实",
+      "price": "8999.00",
+      "color": [
+        "米白色",
+        "棕栗色"
+      ],
+      "credits": 17.4,
+      "sales": 32,
+      "xqImg": [
+        "../images/homeKit/9145372/0.jpg",
+        "../images/homeKit/9145372/1.jpg",
+        "../images/homeKit/9145372/2.jpg",
+        "../images/homeKit/9145372/3.jpg",
+        "../images/homeKit/9145372/4.jpg",
+        "../images/homeKit/9145372/5.jpg",
+        "../images/homeKit/9145372/6.jpg",
+        "../images/homeKit/9145372/7.jpg",
+        "../images/homeKit/9145372/8.jpg",
+        "../images/homeKit/9145372/9.jpg"
+      ],
+      "specification": [
+        [
+          "主品",
+          "帕格尼时尚皮艺软床*1\n主、赠品均为提货券，供应商配送商品"
+        ],
+        [
+          "规格",
+          "床最大占用空间为：长*宽：237cm*167cm=3.9\n床垫规格1.5*2.0m，床垫厚度约：22cm\n皮靠背厚约：27cm ，高约99cm"
+        ],
+        [
+          "颜色",
+          "银白色（即米白色）\n红棕色（即栗棕色）\n二选一"
+        ],
+        [
+          "床架底部收纳空间约",
+          "330L"
+        ],
+        [
+          "赠品",
+          "床垫*1，床头柜*2"
+        ],
+        [
+          "床垫材质",
+          "白色针织面料，高弹海绵,乳胶，锰钢弹簧"
+        ],
+        [
+          "床头柜材质",
+          "主体是中纤人造板，外饰仿皮"
+        ],
+        [
+          "床头柜占用空间",
+          "47cm*48cm=0.22㎡，高约：48cm"
+        ],
+        [
+          "品牌",
+          "帕格尼"
+        ]
+      ],
+      "afterSale": [
+        "商品一经售出，若无质量问题，商品完好，接受7天无理由退换货，其中消费者查验拆封影响商品完好，但未经使用（试用装除外）不得作为拒绝退换货理由。",
+        "商品质量问题，自实际收到商品之日起7天内可退换货，15天内可换货。",
+        "商品若无试用装，使用后出现过敏症状，可办理退货。"
+      ]
+    },
+    {
+      "productNum": 9147897,
+      "type": "homeKit",
+      "time":"10:30-11:00",
+      "title": "迪士尼大容量百纳箱8件特供组",
+      "img": [
+        "../images/homeKit/9147897/9147897bg0.jpg",
+        "../images/homeKit/9147897/9147897bg1.jpg",
+        "../images/homeKit/9147897/9147897bg2.jpg",
+        "../images/homeKit/9147897/9147897bg3.jpg"
+      ],
+      "discount": "329.00",
+      "subhead": "优选材精心设计、舒适结实",
+      "price": "329.00",
+      "color": [
+        "红色",
+        "粉色"
+      ],
+      "present":"迪士尼赠品收纳箱",
+      "credits": 1.2,
+      "sales": 32,
+      "xqImg": [
+        "../images/homeKit/9147897/0.jpg",
+        "../images/homeKit/9147897/1.jpg",
+        "../images/homeKit/9147897/2.jpg",
+        "../images/homeKit/9147897/3.jpg",
+        "../images/homeKit/9147897/4.jpg",
+        "../images/homeKit/9147897/5.jpg",
+        "../images/homeKit/9147897/6.jpg"
+      ],
+      "specification": [
+        [
+          "主品",
+          "迪士尼收纳箱66L*8、使用说明书，合格证"
+        ],
+        [
+          "材质",
+          "主品为100%聚酯纤维、镀铬不锈钢"
+        ],
+        [
+          "占用空间",
+          "66L约50*40*33cm"
+        ],
+        [
+          "颜色",
+          "粉色、红色（二选一）"
+        ],
+        [
+          "品牌",
+          "迪士尼"
+        ]
+      ],
+      "afterSale": [
+        "商品一经售出，若无质量问题，商品完好，接受7天无理由退换货，其中消费者查验拆封影响商品完好，但未经使用（试用装除外）不得作为拒绝退换货理由。",
+        "商品质量问题，自实际收到商品之日起7天内可退换货，15天内可换货。",
+        "商品若无试用装，使用后出现过敏症状，可办理退货。"
+      ]
+    },
+    {
+      "productNum": 9149423,
+      "type": "homeKit",
+      "time":"10:00-10:30",
+      "title": "贝尔莱德蒸汽挂烫机 赠家毅微型缝纫机1个",
+      "img": [
+        "../images/homeKit/9149423/9149423bg0.jpg",
+        "../images/homeKit/9149423/9149423bg1.jpg"
+      ],
+      "discount": "299.00",
+      "subhead": "买挂烫机赠缝纫机，制衣美衣一步到位",
+      "price": "698.00",
+      "present":"宝家洁异彩全能清扫拖*1套",
+      "credits": 0.9,
+      "sales": 0,
+      "xqImg": [
+        "../images/homeKit/9149423/0.jpg",
+        "../images/homeKit/9149423/1.jpg",
+        "../images/homeKit/9149423/2.jpg",
+        "../images/homeKit/9149423/3.jpg",
+        "../images/homeKit/9149423/4.jpg",
+        "../images/homeKit/9149423/5.jpg",
+        "../images/homeKit/9149423/6.jpg",
+        "../images/homeKit/9149423/7.jpg",
+        "../images/homeKit/9149423/8.jpg",
+        "../images/homeKit/9149423/9.jpg",
+        "../images/homeKit/9149423/10.jpg"
+      ],
+      "specification": [
+        [
+          "主品",
+          "主机（含水箱）、四段伸缩管、蒸汽软管、衣架（含万向轴）、毛刷、裤缝夹、熨衣小帮手及使用说明、说明书、合格证各一件"
+        ],
+        [
+          "主品型号",
+          "GS06-BJ/H"
+        ],
+        [
+          "功率/电压/频率",
+          "1500W/220V/50Hz"
+        ],
+        [
+          "规格",
+          "主机长宽约30*25cm；；铝杆高约130cm"
+        ],
+        [
+          "重量",
+          "主机约2.3kg"
+        ],
+        [
+          "颜色",
+          "主机粉色；熨衣小帮手和伸缩衣架颜色随机"
+        ],
+        [
+          "材质",
+          "PVC水箱；铝制立杆"],
+        [
+          "水箱容量",
+          "1.4L"
+        ],
+        [
+          "品牌",
+          "贝尔莱德"
+        ],
+        [
+          "产地",
+          "广东 顺德"
+        ],
+        [
+          "赠品",
+          "家毅微型缝纫机"
+        ],
+        [
+          "赠品配件",
+          "主机（含梭芯、机针各一支）、脚踏开关、充电器、梭芯4支、机针、说明书各一件"
+        ],
+        [
+          "规格",
+          "长宽约20*10cm 高约20cm"
+        ],
+        [
+          "重量",
+          "约650g"
+        ],
+        [
+          "颜色",
+          "随机"
+        ],
+        [
+          "电池容量",
+          "4支5号AA电池"
+        ]
+      ],
+      "afterSale": [
+        "商品一经售出，若无质量问题，商品完好，接受7天无理由退换货，其中消费者查验拆封影响商品完好，但未经使用（试用装除外）不得作为拒绝退换货理由。",
+        "商品质量问题，自实际收到商品之日起7天内可退换货，15天内可换货。",
+        "商品若无试用装，使用后出现过敏症状，可办理退货。"
+      ]
+    },
+    {
+      "productNum": 9148491,
+      "type": "homeKit",
+      "time":"12:30-13:00",
+      "title": "宝家洁免手洗自滤拖把*2 赠宝家洁异彩全能清扫拖*1套",
+      "img": [
+        "../images/homeKit/9148491/9148491bg0.jpg",
+        "../images/homeKit/9148491/9148491bg1.jpg",
+        "../images/homeKit/9148491/9148491bg2.jpg"
+      ],
+      "discount": "269.00",
+      "subhead": "自滤手握把省力清洗滤干、省空间自然站立晒干",
+      "price": "430.00",
+      "present":"宝家洁异彩全能清扫拖*1套",
+      "credits": 0.81,
+      "sales": 0,
+      "xqImg": [
+        "../images/homeKit/9148491/0.jpg",
+        "../images/homeKit/9148491/1.jpg",
+        "../images/homeKit/9148491/2.jpg",
+        "../images/homeKit/9148491/3.jpg",
+        "../images/homeKit/9148491/4.jpg",
+        "../images/homeKit/9148491/5.jpg",
+        "../images/homeKit/9148491/6.jpg",
+        "../images/homeKit/9148491/7.jpg",
+        "../images/homeKit/9148491/8.jpg",
+        "../images/homeKit/9148491/9.jpg",
+        "../images/homeKit/9148491/10.jpg",
+        "../images/homeKit/9148491/11.jpg",
+        "../images/homeKit/9148491/11.jpg"
+      ],
+      "specification": [
+        [
+          "内联赠品",
+          "宝家洁异彩全能清扫拖*1套"
+        ],
+        [
+          "主品",
+          "宝家洁免手洗自滤拖把*2（包含拖把杆*2、拖把头*2、拖把布*8、说明书含保修卡）"
+        ],
+        [
+          "赠品",
+          "宝家洁异彩全能清扫拖*1套（包含拖把杆*1根、底板*1个、拖把布-绿色*2块、拖把布-黑色*2块、除尘布-黑色*1块）"
+        ],
+        [
+          "拖把型号",
+          "FC-44/J"
+        ],
+        [
+          "规格",
+          "面板32×10cm、总长（收缩站立）147cm、展开高约133cm"
+        ],
+        [
+          "赠品规格",
+          "总长138cm、拖板13×28cm、拖布30×13cm"
+        ],
+        [
+          "材质",
+          "高强度塑料、合金管、超微碳纤维拖布、魔术毛刷布"],
+        [
+          "品牌",
+          "宝家洁"
+        ],
+        [
+          "拖把材质",
+          "高强度塑料、合金管、超细纤维拖把布"
+        ]
+      ],
+      "afterSale": [
+        "商品一经售出，若无质量问题，商品完好，接受7天无理由退换货，其中消费者查验拆封影响商品完好，但未经使用（试用装除外）不得作为拒绝退换货理由。",
+        "商品质量问题，自实际收到商品之日起7天内可退换货，15天内可换货。",
+        "商品若无试用装，使用后出现过敏症状，可办理退货。"
+      ]
+    },
+    {
+      "productNum": 9132350,
+      "type": "cookingUtensil",
+      "time":"13:30-14:00",
+      "title": "爱仕达聚味锈不了锅具三件套送不锈钢铲具四件套",
+      "img": [
+        "../images/cookingUtensil/9132350/9132350bg0.jpg"
+      ],
+      "discount": "399.00",
+      "subhead": "铁质更纯,坚固耐用",
+      "price": "598.00",
+      "present": "8周年富安娜定制午休毯",
+      "credits": 1.2,
+      "sales": 0,
+      "xqImg": [
+        "../images/cookingUtensil/9132350/0.jpg",
+        "../images/cookingUtensil/9132350/1.jpg",
+        "../images/cookingUtensil/9132350/2.jpg",
+        "../images/cookingUtensil/9132350/3.jpg",
+        "../images/cookingUtensil/9132350/4.jpg",
+        "../images/cookingUtensil/9132350/5.jpg",
+        "../images/cookingUtensil/9132350/6.jpg",
+        "../images/cookingUtensil/9132350/7.jpg",
+        "../images/cookingUtensil/9132350/8.jpg",
+        "../images/cookingUtensil/9132350/9.jpg",
+        "../images/cookingUtensil/9132350/10.jpg",
+        "../images/cookingUtensil/9132350/11.jpg",
+        "../images/cookingUtensil/9132350/12.jpg",
+        "../images/cookingUtensil/9132350/13.jpg",
+        "../images/cookingUtensil/9132350/14.jpg",
+        "../images/cookingUtensil/9132350/15.jpg"
+      ],
+      "specification": [
+        [
+          "主品配置",
+          "炒锅（含锅盖）、煎锅、蒸锅（含蒸格、蒸箅、锅盖）、说明书各1"
+        ],
+        [
+          "材质",
+          "炒锅：30cm、深约8cm、重约1.5kg、无涂层防锈铸铁、电磁炉及明火可用 煎锅：24cm、深约4cm、重约0.46kg、铝合金含涂层（不适合电磁炉） 蒸锅：26cm、不锈钢、重约2.3kg（带盖）、电磁炉及明火可用"
+        ],
+        [
+          "赠品配置",
+          "不锈钢铲具四件套"
+        ],
+        [
+          "品牌",
+          "爱仕达"
+        ]
+      ],
+      "afterSale": [
+        "商品一经售出，若无质量问题，商品完好，接受7天无理由退换货，其中消费者查验拆封影响商品完好，但未经使用（试用装除外）不得作为拒绝退换货理由。",
+        "商品质量问题，自实际收到商品之日起7天内可退换货，15天内可换货。",
+        "商品若无试用装，使用后出现过敏症状，可办理退货。"
+      ]
+    },
+    {
+      "productNum": 9127309,
+      "type": "cookingUtensil",
+      "time":"14:00-14:30",
+      "title": "爱仕达三层不锈钢锅具组",
+      "img": [
+        "../images/cookingUtensil/9127309/9127309bg0.jpg",
+        "../images/cookingUtensil/9127309/9127309bg1.jpg"
+      ],
+      "discount": "299.00",
+      "subhead": "一体成型,三层聚热",
+      "price": "448.50",
+      "present": "爱仕达厨房工具六件套",
+      "credits": 0.9,
+      "sales": 0,
+      "xqImg": [
+        "../images/cookingUtensil/9127309/0.jpg",
+        "../images/cookingUtensil/9127309/1.jpg",
+        "../images/cookingUtensil/9127309/2.jpg",
+        "../images/cookingUtensil/9127309/3.jpg",
+        "../images/cookingUtensil/9127309/4.jpg",
+        "../images/cookingUtensil/9127309/5.jpg",
+        "../images/cookingUtensil/9127309/6.jpg",
+        "../images/cookingUtensil/9127309/7.jpg",
+        "../images/cookingUtensil/9127309/8.jpg",
+        "../images/cookingUtensil/9127309/9.jpg",
+        "../images/cookingUtensil/9127309/10.jpg",
+        "../images/cookingUtensil/9127309/11.jpg"
+      ],
+      "specification": [
+        [
+          "主品配置",
+          "爱仕达三层复合钢两件套"
+        ],
+        [
+          "规格",
+          "炒锅规格：直径30厘米，深度8厘米，重量1.5kg 煎锅规格：直径26厘米，深度5厘米，重量1.0kg"
+        ],
+        [
+          "赠品配置",
+          "爱仕达不锈钢铲具四件套"
+        ],
+        [
+          "品牌",
+          "爱仕达（国内注册商标，孙俪代言）"
+        ]
+      ],
+      "afterSale": [
+        "商品一经售出，若无质量问题，商品完好，接受7天无理由退换货，其中消费者查验拆封影响商品完好，但未经使用（试用装除外）不得作为拒绝退换货理由。",
+        "商品质量问题，自实际收到商品之日起7天内可退换货，15天内可换货。",
+        "商品若无试用装，使用后出现过敏症状，可办理退货。"
+      ]
+    },
+    {
+      "productNum": 9133024,
+      "type": "cookingUtensil",
+      "time":"14:30-15:00",
+      "title": "爱乐仕至尊不锈钢30cm炒锅+24cm煎锅+汤锅 再送刀具4件、锅铲3件",
+      "img": [
+        "../images/cookingUtensil/9133024/9133024bg0.jpg",
+        "../images/cookingUtensil/9133024/9133024bg1.jpg",
+        "../images/cookingUtensil/9133024/9133024bg2.jpg",
+        "../images/cookingUtensil/9133024/9133024bg3.jpg",
+        "../images/cookingUtensil/9133024/9133024bg4.jpg",
+        "../images/cookingUtensil/9133024/9133024bg5.jpg"
+      ],
+      "discount": "699.00",
+      "subhead": "健康无涂层 少油烟",
+      "price": "1048.00",
+      "present": "爱乐仕不锈钢保温杯2支",
+      "credits": 2.1,
+      "sales": 0,
+      "xqImg": [
+        "../images/cookingUtensil/9133024/0.jpg",
+        "../images/cookingUtensil/9133024/1.jpg",
+        "../images/cookingUtensil/9133024/2.jpg",
+        "../images/cookingUtensil/9133024/3.jpg",
+        "../images/cookingUtensil/9133024/4.jpg",
+        "../images/cookingUtensil/9133024/5.jpg",
+        "../images/cookingUtensil/9133024/6.jpg",
+        "../images/cookingUtensil/9133024/7.jpg",
+        "../images/cookingUtensil/9133024/8.jpg",
+        "../images/cookingUtensil/9133024/9.jpg",
+        "../images/cookingUtensil/9133024/10.jpg",
+        "../images/cookingUtensil/9133024/11.jpg",
+        "../images/cookingUtensil/9133024/12.jpg",
+        "../images/cookingUtensil/9133024/13.jpg",
+        "../images/cookingUtensil/9133024/14.jpg",
+        "../images/cookingUtensil/9133024/15.jpg"
+      ],
+      "specification": [
+        [
+          "主品配置",
+          "30cm炒锅及锅盖、蒸格"
+        ],
+        [
+          "尺寸",
+          "炒锅深约8cm；煎锅深约6cm；汤锅深约12cm"
+        ],
+        [
+          "赠品配置",
+          "24cm煎锅及锅盖、24cm汤锅及锅盖、不锈钢刀具（含菜刀，砍刀，厨师刀，刀架）、锅铲、汤勺、漏勺、说明书（含保修卡）、合格证各一件"
+        ],
+        [
+          "品牌",
+          "爱乐仕"
+        ],
+        [
+          "材质",
+          "不锈钢锅具"
+        ],
+        [
+          "颜色",
+          "不锈钢色锅具；黑色刀座"
+        ],
+        [
+          "重量",
+          "炒锅约1.3kg；煎锅约0.9kg；汤锅约1.4kg炒锅约1.3kg；煎锅约0.9kg；汤锅约1.4kg"
+        ],
+        [
+          "适用炉灶",
+          "明火、电磁炉、光波炉等（不挑炉具）"
+        ]
+      ],
+      "afterSale": [
+        "商品一经售出，若无质量问题，商品完好，接受7天无理由退换货，其中消费者查验拆封影响商品完好，但未经使用（试用装除外）不得作为拒绝退换货理由。",
+        "商品质量问题，自实际收到商品之日起7天内可退换货，15天内可换货。",
+        "商品若无试用装，使用后出现过敏症状，可办理退货。"
+      ]
+    },
+    {
+      "productNum": 9134954,
+      "type": "cookingUtensil",
+      "time":"15:30-16:00",
+      "title": "爱乐仕经典全钢锅具三件 赠煎锅+汤锅+汤锅锅盖+刀具四件组+锅铲",
+      "img": [
+        "../images/cookingUtensil/9134954/9134954bg0.jpg",
+        "../images/cookingUtensil/9134954/9134954bg1.jpg",
+        "../images/cookingUtensil/9134954/9134954bg2.jpg",
+        "../images/cookingUtensil/9134954/9134954bg3.jpg"
+      ],
+      "discount": "399.00",
+      "subhead": "健康无烟,全钢不沾",
+      "price": "599.00",
+      "present": "爱乐仕不锈钢保温杯2支",
+      "credits": 1.2,
+      "sales": 0,
+      "xqImg": [
+        "../images/cookingUtensil/9134954/0.jpg",
+        "../images/cookingUtensil/9134954/1.jpg",
+        "../images/cookingUtensil/9134954/2.jpg",
+        "../images/cookingUtensil/9134954/3.jpg",
+        "../images/cookingUtensil/9134954/4.jpg",
+        "../images/cookingUtensil/9134954/5.jpg",
+        "../images/cookingUtensil/9134954/6.jpg",
+        "../images/cookingUtensil/9134954/7.jpg",
+        "../images/cookingUtensil/9134954/8.jpg",
+        "../images/cookingUtensil/9134954/9.jpg",
+        "../images/cookingUtensil/9134954/10.jpg",
+        "../images/cookingUtensil/9134954/11.jpg",
+        "../images/cookingUtensil/9134954/12.jpg",
+        "../images/cookingUtensil/9134954/13.jpg",
+        "../images/cookingUtensil/9134954/14.jpg",
+        "../images/cookingUtensil/9134954/15.jpg",
+        "../images/cookingUtensil/9134954/16.jpg",
+        "../images/cookingUtensil/9134954/17.jpg",
+        "../images/cookingUtensil/9134954/18.jpg"
+      ],
+      "specification": [
+        [
+          "主品配置",
+          "炒锅、锅盖、把手、说明书（含保修卡）"
+        ],
+        [
+          "规格",
+          "炒锅深约8cm；煎锅深约6cm；汤锅深约12cm"
+        ],
+        [
+          "赠品配置",
+          "煎锅、汤锅、汤锅锅盖、刀具四件组（砍刀，菜刀，水果刀，刀座）、锅铲"
+        ],
+        [
+          "材质",
+          "不锈钢"
+        ],
+        [
+          "颜色",
+          "锅体不锈钢色；透明锅盖；黑色刀座"
+        ]
+      ],
+      "afterSale": [
+        "商品一经售出，若无质量问题，商品完好，接受7天无理由退换货，其中消费者查验拆封影响商品完好，但未经使用（试用装除外）不得作为拒绝退换货理由。",
+        "商品质量问题，自实际收到商品之日起7天内可退换货，15天内可换货。",
+        "商品若无试用装，使用后出现过敏症状，可办理退货。"
+      ]
+    },
+    {
+      "productNum": 9137954,
+      "type": "cookingUtensil",
+      "time":"16:00-16:30",
+      "title": "韩国PN枫年5.5L压力锅+3.5L不锈钢汤锅+刀具套组",
+      "img": [
+        "../images/cookingUtensil/9137954/9137954bg0.jpg",
+        "../images/cook ingUtensil/9137954/9137954bg1.jpg",
+        "../images/cookingUtensil/9137954/9137954bg2.jpg",
+        "../images/cookingUtensil/9137954/9137954bg3.jpg",
+        "../images/cookingUtensil/9137954/9137954bg4.jpg"
+      ],
+      "discount": "399.00",
+      "subhead": "韩国压力锅第一品牌，超值套组",
+      "price": "599.00",
+      "credits": 5.04,
+      "sales": 0,
+      "xqImg": [
+        "../images/cookingUtensil/9137954/0.jpg",
+        "../images/cookingUtensil/9137954/1.jpg",
+        "../images/cookingUtensil/9137954/2.jpg",
+        "../images/cookingUtensil/9137954/3.jpg",
+        "../images/cookingUtensil/9137954/4.jpg",
+        "../images/cookingUtensil/9137954/5.jpg",
+        "../images/cookingUtensil/9137954/6.jpg",
+        "../images/cookingUtensil/9137954/7.jpg",
+        "../images/cookingUtensil/9137954/8.jpg",
+        "../images/cookingUtensil/9137954/9.jpg",
+        "../images/cookingUtensil/9137954/10.jpg",
+        "../images/cookingUtensil/9137954/11.jpg",
+        "../images/cookingUtensil/9137954/12.jpg",
+        "../images/cookingUtensil/9137954/13.jpg",
+        "../images/cookingUtensil/9137954/14.jpg",
+        "../images/cookingUtensil/9137954/15.jpg",
+        "../images/cookingUtensil/9137954/16.jpg",
+        "../images/cookingUtensil/9137954/17.jpg",
+        "../images/cookingUtensil/9137954/18.jpg",
+        "../images/cookingUtensil/9137954/19.jpg",
+        "../images/cookingUtensil/9137954/20.jpg",
+        "../images/cookingUtensil/9137954/21.jpg",
+        "../images/cookingUtensil/9137954/22.jpg",
+        "../images/cookingUtensil/9137954/23.jpg",
+        "../images/cookingUtensil/9137954/24.jpg",
+        "../images/cookingUtensil/9137954/25.jpg",
+        "../images/cookingUtensil/9137954/26.jpg",
+        "../images/cookingUtensil/9137954/27.jpg",
+        "../images/cookingUtensil/9137954/28.jpg",
+        "../images/cookingUtensil/9137954/29.jpg"
+      ],
+      "specification": [
+        [
+          "产地",
+          "韩国"
+        ],
+        [
+          "品牌",
+          "PN枫年"
+        ],
+        [
+          "材质",
+          "不锈钢锅身"
+        ],
+        [
+          "重量",
+          "5.5L压力锅约1.7kg;3.5L不锈钢汤锅约1.46kg"
+        ],
+        [
+          "规格",
+          "压力锅口径约22cm;5.5L压力锅深约15cm;3.5L不锈钢汤锅深约11cm"
+        ],
+        [
+          "主品配置",
+          "5.5L压力锅、3.5L不锈钢汤锅、不锈钢蒸屉、可立式防溢锅盖、压力锅盖、说明书、食谱、保修卡、安全针"
+        ],
+        [
+          "赠品配置",
+          "切菜刀、多用刀、水果刀、剪刀、刀架座"
+        ],
+        [
+          "其他说明",
+          "压力锅建议使用年限:10年"
+        ],
+        [
+          "适用炉灶",
+          "明火 电磁炉 电陶炉等（不挑炉灶)"
+        ]
+      ],
+      "afterSale": [
+        "商品一经售出，若无质量问题，商品完好，接受7天无理由退换货，其中消费者查验拆封影响商品完好，但未经使用（试用装除外）不得作为拒绝退换货理由。",
+        "商品质量问题，自实际收到商品之日起7天内可退换货，15天内可换货。",
+        "商品若无试用装，使用后出现过敏症状，可办理退货。"
+      ]
+    }
+  ]
+}

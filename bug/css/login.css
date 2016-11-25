@@ -1,0 +1,104 @@
+.wrap-login > h3 {
+    text-align: right;
+    font-weight: 100;
+    line-height: 70px;
+    height: 70px;
+    margin-right: 100px;
+}
+
+.wrap-login > h3 > a {
+    font-size: 14px;
+    color: blue;
+    margin-left: 125px;
+}
+
+.frame {
+    width: 470px;
+    border: solid 1px #DCDBD9;
+    background: #fff;
+    box-sizing: border-box;
+    margin-right: 100px;
+    float: right;
+    padding: 80px;
+    position: relative;
+}
+
+.frame > button {
+    background-color: #ff7d01;
+    width: 100%;
+    height: 48px;
+    line-height: 48px;
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.frame > p {
+    margin: 10px 0;
+    line-height: 50px;
+}
+
+.username {
+    border: 1px solid #CCCCCC;
+    height: 50px;
+
+}
+
+.username > input {
+    height: 30px;
+    width: 70%;
+    outline: none;
+
+}
+
+.pwd {
+    height: 50px;
+    border: 1px solid #CCCCCC;
+}
+
+.pwd > input {
+    height: 30px;
+    width: 70%;
+    outline: none;
+}
+
+.username > em {
+    display: inline-block;
+    width: 29px;
+    height: 29px;
+    background: url("../images/index/login_icon1.png") no-repeat;
+    vertical-align: middle;
+    margin-left: 0.5em;
+}
+
+.pwd > em {
+    display: inline-block;
+    width: 29px;
+    height: 29px;
+    background: url("../images/index/login_icon2.png") no-repeat;
+    vertical-align: middle;
+    margin-left: 0.5em;
+
+}
+
+.frame > b {
+    border-bottom: 20px solid #FFFFFF;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-top: 20px solid transparent;
+    position: absolute;
+    top: -40px;
+    left:50%;
+    margin-left: -20px;
+}
+.cookieSave{
+    font-size: 14px;
+}
+.cookieSave>a{
+    float: right;
+    color: #8a8a8a;
+    font-size: 12px;
+}
+#loginBtn:hover{
+    opacity: 0.9;
+}

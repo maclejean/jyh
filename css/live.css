@@ -1,0 +1,187 @@
+.tv-right {
+    width: 474px;
+    height: 472px;
+    float: left;
+    border-radius: 5px;
+    border: 1px solid #8a8a8a;
+    overflow: hidden;
+    position: relative;
+}
+
+.tv-right ul {
+    position: absolute;
+    margin-top: -5px;
+    padding: 0 5px;
+    top: 0;
+    left: 0;
+    width: 100%;
+
+}
+
+.tv-right li {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.tv-right li a {
+    width: 100%;
+    display: block;
+    font-size: 14px;
+    height: 60px;
+    padding: 5px 0;
+}
+
+.tv-right li p {
+    line-height: 25px;
+    width: 400px;
+    float: left;
+    height: 25px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    text-indent: 20px;
+    overflow: hidden;
+}
+
+.tv-right li:hover .tlt {
+    text-decoration: underline;
+}
+
+.tv-right li img {
+    height: 60px;
+    width: 60px;
+    float: left;
+}
+
+.tv {
+    width: 716px;
+    height: 472px;
+    float: left;
+    margin-right: 10px;
+    overflow: hidden;
+    border-radius: 5px;
+}
+
+.tv > object {
+    height: 90%;
+
+}
+
+.tv-tel {
+    height: 45px;
+    color: #FFFFFF;
+    text-align: center;
+    line-height: 45px;
+}
+
+.tv > span {
+    background-color: #343841;
+    display: inline-block;
+    width: 100%;
+}
+
+.tv-list {
+    width: 100%;
+    position: relative;
+    border: 1px solid #8a8a8a;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-top: 30px;
+    height: 232px;
+}
+
+.tv-list > ul {
+    height: 232px;
+    width: 9999px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.tv-list > ul > li {
+    width: 232px;
+    height: 232px;
+    margin-right: 10px;
+    float: left;
+}
+
+.tv-list > ul > li img {
+    width: 100%;
+    height: 100%;
+}
+
+.tv-list a {
+    display: inline-block;
+    position: relative;
+    width: 232px;
+    height: 232px;
+}
+
+.tv-list a:hover .name {
+    text-decoration: underline;
+}
+
+.name-price {
+    position: absolute;
+    width: 230px;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.4);
+}
+
+.name-price > .name {
+    box-sizing: border-box;
+    height: 22px;
+    width: 230px;
+    display: inline-block;
+    line-height: 22px;
+    padding: 0 0.5em;
+    text-align: right;
+    vertical-align: middle;
+    overflow: hidden;
+    font-size: 14px;
+}
+
+.name-price > .price {
+    font-size: 16px;
+    font-weight: bold;
+    text-align: right;
+    padding: 0 0.5em;
+    margin: 0;
+
+}
+
+.name-price > .time {
+    position: absolute;
+    top: -16px;
+    color: #fff;
+    font-size: 12px;
+    vertical-align: middle;
+    height: 16px;
+    line-height: 16px;
+    display: block;
+    text-align: center;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.prev, .next {
+    position: absolute;
+    width: 30px;
+    height: 50px;
+    line-height: 50px;
+    color: #fff;
+    font-size: 35px;
+    margin-top: -25px;
+    top: 50%;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.next {
+    right: 0;
+}
+
+.prev:hover, .next:hover {
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.4);
+}
